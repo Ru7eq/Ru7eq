@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ru7eq
+- 👀 I’m interested in web developement
+- 🌱 I’m currently learning HTML/CSS
+- 📫 How to reach me: telegram - @ru7eq 
